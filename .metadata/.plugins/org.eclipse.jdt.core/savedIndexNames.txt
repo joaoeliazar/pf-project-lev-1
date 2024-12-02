@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/joaovitor/Documents/Projects/Elections Simulator/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1084462995.index
+1545836964.index
